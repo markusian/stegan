@@ -3,7 +3,7 @@ stegan
 
 A simple stegranography application for hiding messages inside images
 
-This program encrypts and decrypts a message inside an
+    This program encrypts and decrypts a message inside an
     image using steganography.
 
     Use --help or -h for details on usage
